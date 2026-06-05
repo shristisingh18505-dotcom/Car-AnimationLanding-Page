@@ -1,2 +1,19 @@
 # Car-AnimationLanding-Page
-A modern and responsive car slider showcasing multiple vehicles with smooth animations, auto-slide functionality, and interactive controls. Built using HTML, CSS, and JavaScript.
+Car Slider Animation
+
+A modern car slider animation project built with HTML, CSS, and JavaScript. The project features smooth slide transitions, responsive design, auto-play functionality, and interactive navigation controls to showcase vehicles in an engaging way.
+
+Features
+
+- Responsive design
+- Smooth slide animations
+- Auto-sliding carousel
+- Previous/Next navigation buttons
+- Clean and modern UI
+- Built with pure HTML, CSS, and JavaScript
+
+Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
